@@ -1,2 +1,2 @@
-# projeto1-giaval-devaprender
+# projeto1-givaldol-devaprender
 tutorial de como usar github
